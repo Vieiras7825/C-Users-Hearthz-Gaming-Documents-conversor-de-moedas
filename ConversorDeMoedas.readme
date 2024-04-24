@@ -1,0 +1,27 @@
+# Conversor de Moedas
+
+Um simples programa Java para converter entre diferentes moedas com base em taxas de câmbio fixas.
+
+## Descrição
+
+Este programa permite ao usuário converter valores entre as seguintes moedas:
+- BRL (Real Brasileiro)
+- USD (Dólar Americano)
+- EUR (Euro)
+- GBP (Libra Esterlina)
+
+As taxas de câmbio são simuladas com valores fixos e as conversões são realizadas de acordo com a opção selecionada pelo usuário.
+
+## Funcionalidades
+
+- Conversão entre diferentes pares de moedas
+- Manipulação de erros ao obter taxas de câmbio
+
+## Instruções de Uso
+
+1. Execute o programa `ConversorDeMoedas.java` em um ambiente Java compatível.
+2. Siga as instruções exibidas no console para escolher a opção de conversão e digitar o valor a ser convertido.
+3. O programa mostrará o valor convertido no console.
+
+
+
